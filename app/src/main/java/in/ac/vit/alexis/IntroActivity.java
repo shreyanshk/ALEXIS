@@ -33,7 +33,7 @@ public class IntroActivity extends MaterialIntroActivity {
                 new MessageButtonBehaviour(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        Intent intent = new Intent(IntroActivity.this, MainActivity.class);
+                        Intent intent = new Intent(IntroActivity.this, ChooserActivity.class);
                         startActivity(intent);
                     }
                 }, "Launch!"));
