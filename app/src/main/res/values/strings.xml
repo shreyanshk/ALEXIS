@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ALEXIS</string>
+    <string name="app_intro">Welcome!</string>
 </resources>
